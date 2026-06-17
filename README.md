@@ -144,10 +144,8 @@ README.md
 
 **Muthyala Sashank Abhiram**
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/sashankabhiram
 
-LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_PROFILE
-
----
+Linkedin: https://www.linkedin.com/in/sashank-abhiram-muthyala/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BenkyjrbcRB6trsCZfjZ77A%3D%3D
 
 ⭐ Thank you for visiting my internship portfolio repository.
