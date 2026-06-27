@@ -99,12 +99,37 @@ https://www.figma.com/design/iouWaJaNb5SFGOG9kefONE/Restaurant-Menu?node-id=0-1&
 
 ---
 
-# 🔄 Ongoing Projects
+## 4️⃣ Mobile App Signup Flow
 
-Additional internship tasks are currently in progress and will be uploaded upon completion.
+### Project Description
+
+Designed a clean and intuitive mobile application signup flow that provides users with a seamless onboarding experience. The interface focuses on simplicity, accessibility, and ease of navigation while maintaining a modern visual design.
+
+### Key Features
+
+* Welcome Screen
+* User Registration Form
+* Email & Password Input
+* Social Login Options
+* Form Validation Design
+* Clean Mobile UI
+* Consistent Color Palette
+* User-Friendly Navigation
+
+### Figma Link
+
+https://www.figma.com/design/sLGozxqPMXyLwulfk4MhKK/Mobile-App-Signup-Flow?node-id=0-1&t=vx9BR6CTLH4JsIZ2-1
+
+### Skills Gained
+
+* Mobile UI Design
+* User Onboarding Experience
+* Form Design
+* UX Principles
+* Interaction Design
+* Visual Hierarchy
 
 ---
-
 # 🛠 Tools Used
 
 * Figma
@@ -120,20 +145,21 @@ Through these projects, I developed skills in:
 * UI Design
 * UX Design
 * Design Systems
+* Mobile App Design
+* User Onboarding
 * Wireframing
 * Visual Hierarchy
 * Typography
 * User-Centered Design
 * Prototyping
+* Responsive Design
 
 ---
 
-# 📂 Repository Structure
-
-```text
 📁 Button-Set-Redesign
 📁 Email-Template
 📁 Restaurant-Menu
+📁 Mobile-App-Signup-Flow
 📁 Assets
 README.md
 ```
